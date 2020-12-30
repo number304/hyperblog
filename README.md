@@ -10,5 +10,6 @@ Un blog increíble para el [curso de Git y Github](https://platzi.com/clases/git
 * La urgente necesidad de enseñarle redacción a Freddy.
 * Y un sano interés por estudiar científicamente sus múltiples personalidades.
 * Creado con la ayuda de Freddy y la bella comunidad de Platzi.
+* Con ejemplos para toda la familia y todos los sistemas operativos.
 
 Y como un amable recordatorio: **Este readme.md es una broma** diseñada como ejemplo para el curso. Si llegas acá NO TE LO TOMES EN SERIO y soy alguien a quien le divierte e interesa **mucho** programar, por eso lo risueño (cuando es conveniente).
